@@ -1,0 +1,7 @@
+python3 rpi.gpio 설치
+sudo apt-get -y install python3-rpi.gpio
+
+python3 spidev 설치
+sudo pip3 install --upgrade spidev
+
+https://m.blog.naver.com/PostView.nhn?blogId=icbanq&logNo=221707613248&proxyReferer=https:%2F%2Fwww.google.com%2F
